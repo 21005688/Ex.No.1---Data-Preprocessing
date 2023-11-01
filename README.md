@@ -1,9 +1,9 @@
-# Ex.No.1---Data-Preprocessing
+## Ex.No.1---Data-Preprocessing
 ## AIM:
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -63,10 +63,16 @@ print(df1)
 
 ## OUTPUT:
 ![image](https://github.com/21005688/Ex.No.1---Data-Preprocessing/assets/94747031/02588e0a-67da-4ef9-9d92-50730ae40863)
+
+
 ![image](https://github.com/21005688/Ex.No.1---Data-Preprocessing/assets/94747031/42ceaa0a-2dec-46ad-9eb9-f0bde1c1cdbf)
+
 ![image](https://github.com/21005688/Ex.No.1---Data-Preprocessing/assets/94747031/e371ae0b-994a-4725-90b3-5d0e788c97ca) 
+
 ![image](https://github.com/21005688/Ex.No.1---Data-Preprocessing/assets/94747031/3a5671bf-646e-4988-885e-6b0f68ef006b)
+
 ![image](https://github.com/21005688/Ex.No.1---Data-Preprocessing/assets/94747031/0250b921-01a5-4094-9cbc-bbf496ebe6eb)
+
 ![image](https://github.com/21005688/Ex.No.1---Data-Preprocessing/assets/94747031/1c2fc5a4-58ae-40e4-923d-4c686e6815a6)
 
 ![image](https://github.com/21005688/Ex.No.1---Data-Preprocessing/assets/94747031/b14b84c3-5541-470a-801a-8848370e282c)
